@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    overflow: hidden;
+}
+img {
+    width: 15em;
+    height: 20em;
+    border-radius: 2em;
+    margin-top: 2em;
+}
+main {
+    background-color: rgb(224, 238, 244);
+    width: 40em;
+    height: 40em;
+    margin: auto;
+    padding: 2em 2em 2em 11.5em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2em;
+    line-height: 2em;
+}
+h1 {
+    font-size: 3em;
+    padding-left: 0.7em;
+    text-decoration: underline;
+}
